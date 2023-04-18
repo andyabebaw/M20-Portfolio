@@ -26,7 +26,7 @@ Github: https://github.com/andyabebaw/M20-Portfolio/edit/main
 This app can be used to view resume, contact info, about me, and projects info.
 
 ![alt Screenshot](contactMe.png)
-![alt Screenshot](home.pngg)
+![alt Screenshot](home.png)
 ![alt Screenshot](resume.png)
 ![alt Screenshot](Portfolio.png)
 
