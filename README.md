@@ -4,6 +4,10 @@
 
 This project was built to create a portfolio to display resume, contact info, about me, and projects info.
 
+Github Pages: https://andyabebaw.github.io/M20-Portfolio/#resume
+
+Github: https://github.com/andyabebaw/M20-Portfolio/edit/main
+
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
