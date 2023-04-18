@@ -2,6 +2,7 @@
   "name": "module20-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://andyabebaw.github.io/M20-Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.1.0",
